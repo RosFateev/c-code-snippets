@@ -33,6 +33,9 @@ void ReadMessage(char* buffer, uint16_t length)
 
 
 // Useful reading:
+// General C IO info:
+// https://stackoverflow.com/questions/35178520/how-to-read-parse-input-in-c-the-faq
+// Specific functions used in a file:
 // https://pubs.opengroup.org/onlinepubs/000095399/functions/freopen.html
 // https://pubs.opengroup.org/onlinepubs/009695399/functions/fread.html
 // https://pubs.opengroup.org/onlinepubs/009695399/functions/feof.html
